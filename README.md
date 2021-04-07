@@ -1,1 +1,1 @@
-# Image-Claccification-Fire-Vs-No-Fire-
+# Image-Claccification Fire Vs No Fire
